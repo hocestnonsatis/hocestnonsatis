@@ -1,69 +1,43 @@
-# Hello! 👋 I'm hocestnonsatis
+# Hi there! 👋
 
-I'm a hobbyist developer who loves programming. I continue to develop myself in the coding world with my passion for technology and desire to keep learning.
+I'm a hobbyist developer who enjoys tinkering with code in my spare time. I like learning new technologies and working on small projects for fun. When I'm not coding, you'll find me experimenting with different frameworks, solving interesting problems, and exploring the endless possibilities of software development.
 
-## 🚀 About Me
+I'm particularly fascinated by efficient computing and making powerful tools accessible even with limited resources. Whether it's optimizing code performance or finding creative ways to work within constraints, I enjoy the challenge of building something useful with what I have. This interest naturally led me to explore running AI models on consumer hardware, where efficiency and resource optimization are key.
 
-- 💻 **Hobbyist Developer** - I love coding in my spare time
-- 🌱 **Continuous Learner** - I enjoy discovering and learning new technologies
-- 🎯 **Project-Focused** - I start with small projects and develop big ideas
-- 🔧 **Problem Solver** - I love solving daily problems through coding
+---
 
-## 🛠️ Technologies
+## 🔧 Currently Learning
 
-### Programming Languages
-- **Python** - For data analysis, automation, and backend development
-- **JavaScript** - For web development and interactive projects
-- **Rust** - For high-performance systems programming and web development
+- 💻 **SvelteKit & JavaScript** - Building modern web applications with a focus on simplicity and performance. I love how SvelteKit makes it easy to create fast, interactive web experiences without the overhead of traditional frameworks.
 
-### Frameworks & Libraries
-- **SvelteKit** - Modern full-stack web framework for building fast applications
-- **DaisyUI** - Beautiful component library for Tailwind CSS
-- **Flask** - Lightweight Python web framework for building APIs and web applications
-- **React Native** - Cross-platform mobile app development framework
-- **CapacitorJS** - Native runtime for building cross-platform apps with web technologies
+- 🐍 **Python & Flask** - Creating lightweight APIs and backend services. Python's simplicity makes it perfect for quick prototypes and practical scripts, while Flask gives me just enough structure without getting in the way.
 
-### Tools & Technologies
-- **Prisma** - Modern database toolkit and ORM for TypeScript and Node.js
-- **Git & GitHub** - Version control and project management
-- **Cursor** - My favorite AI-powered code editor
+- 🦀 **Rust basics** - Exploring systems programming and performance optimization. Rust's memory safety guarantees and zero-cost abstractions are fascinating, and I'm learning how it can help build more efficient applications.
 
-## 📊 GitHub Statistics
+## 🎯 2026 Goal
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hocestnonsatis&show_icons=true&theme=radical&hide_border=true)
+- 🤖 **Running AI models locally with limited GPU power** - This is my big focus for 2026. I'm learning how to optimize and run machine learning models efficiently on consumer hardware. This involves exploring quantization techniques, model compression, ONNX runtime optimization, and lightweight inference frameworks. The goal is to make AI more accessible without requiring expensive hardware.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hocestnonsatis&layout=compact&theme=radical&hide_border=true)
+---
 
-## 🎯 2025 Goals
-
-- [ ] **SvelteKit Mastery** - Build more complex full-stack applications with SvelteKit
-- [ ] **Rust Expertise** - Deepen my knowledge of Rust for systems programming
-- [ ] **Mobile Development** - Create cross-platform apps with React Native and CapacitorJS
-- [ ] **Python Backend** - Build robust APIs and web services with Flask
-- [ ] **Database Design** - Master Prisma and database optimization techniques
-- [ ] **UI/UX Design** - Create beautiful interfaces with DaisyUI and modern design principles
-- [ ] **Open Source** - Contribute to SvelteKit, Rust, and mobile development communities
-
-## 🏆 Achievements
-
-- 🥇 Built my first SvelteKit application
-- 🥈 Mastered Prisma for database management
-- 🥉 Created beautiful UIs with DaisyUI components
-- 🏅 Learning Rust for high-performance development
-- 🎯 2+ years in my continuous learning journey
+## 📊 GitHub Activity
 
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
-## 🤝 Contact
+<div align="center">
 
+![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=hocestnonsatis&theme=default&hide_border=true)
 
-- 🐦 **Twitter**: [@hocestnonsatis]
+</div>
 
+---
+
+## 📁 My Projects
+
+Check out my [repositories](https://github.com/hocestnonsatis?tab=repositories) to see what I've been working on! Most of my projects are small experiments, learning exercises, or tools I've built to solve specific problems. I believe in learning by doing, so many of my repos reflect my journey exploring different technologies and solving real-world challenges.
 
 
 ---
 
-⭐ **If you like my projects, don't forget to star them!** ⭐
+💭 Feel free to check out my projects! I'm always open to feedback and collaboration. If you find something interesting or have suggestions, don't hesitate to reach out!
 
